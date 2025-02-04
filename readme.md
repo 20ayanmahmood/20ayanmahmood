@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 900px; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex-direction:column; gap: 20px; max-width: 900px; margin: auto;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ZjljbHdtMjdxNmM1OGM0Z2htbHpkam1qOWJ0N2NkM2NxNGt5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" 
          alt="AI Project Demo" 
