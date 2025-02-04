@@ -1,7 +1,12 @@
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ZjljbHdtMjdxNmM1OGM0Z2htbHpkam1qOWJ0N2NkM2NxNGt5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif)
-
-
-Welcome to the repository for Data Science and Generative AI projects at Eastern Software Solutions! This repository contains a collection of innovative projects that leverage advanced data science techniques and generative AI models to solve real-world problems.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ZjljbHdtMjdxNmM1OGM0Z2htbHpkam1qOWJ0N2NkM2NxNGt5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="AI Project Demo" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h1>Welcome to the Repository</h1>
+    <p>Welcome to the repository for Data Science and Generative AI projects at Eastern Software Solutions! This repository contains a collection of innovative projects that leverage advanced data science techniques and generative AI models to solve real-world problems.</p>
+  </div>
+</div>
 
 
 ## 💫Introduction
