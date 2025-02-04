@@ -1,4 +1,22 @@
- 
+/      \              /       
+
+/$$$$$$  |  _______   / |
+ $$ |__$$ | /       \ /$$__  $$ |
+ $$    $$<   |
+∣
+∣ |
+ | $$ |  $$ |$$  | $$ |
+ $$ |  $$ | $$ |  $$ |$$  | $$ |
+ $$ |  $$ | $$ |  $$ |/
+∣
+∣ | 
+∣
+∣ | ____/
+ /   
+/
+//   
+/
+/ 
 
 Welcome to the repository for Data Science and Generative AI projects at Eastern Software Solutions! This repository contains a collection of innovative projects that leverage advanced data science techniques and generative AI models to solve real-world problems.
 
