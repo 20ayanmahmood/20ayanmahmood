@@ -1,15 +1,14 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex-direction:column; gap: 20px; max-width: 900px; margin: auto;">
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+<div style="display: grid; grid-template-columns: 1fr 1.5fr; align-items: center; gap: 20px; max-width: 1000px; margin: auto;">
+  <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ZjljbHdtMjdxNmM1OGM0Z2htbHpkam1qOWJ0N2NkM2NxNGt5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" 
          alt="AI Project Demo" 
-         style="max-width: 100%; height: auto;">
+         style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 2; min-width: 300px;">
+  <div>
     <h1>Welcome to the Repository</h1>
     <p>Welcome to the repository for Data Science and Generative AI projects at Eastern Software Solutions! This repository contains a collection of innovative projects that leverage advanced data science techniques and generative AI models to solve real-world problems.</p>
   </div>
 </div>
-
 
 
 
